@@ -1,0 +1,67 @@
+body {
+  font-size: 16px;
+  color: blue;
+  background-color: white;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav {
+  background-color: green;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-brand h1{
+  text-align: left;
+  font-family: 'Lora', serif;
+  color: #ffffcc;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+  text-decoration: none;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+  text-decoration: none;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+}
+.navbar-header button.navbar-toggle {
+  color: #ffffcc;
+}
+
+#nav-list li a {
+  color:#ffffcc;
+  text-align: center;
+}
+
+#nav-list li:hover {
+  background-color: #196619;
+}
+
+.jumbotron {
+  color: green;
+  text-align: center;
+  font-family: 'Lora', serif;
+  margin-top: -30px;
+  background-color: #ffffff;
+  t
+}
+
+.page-header {
+  text-align: center;
+  color: #000000;
+}
+
+#main-content {
+  background-color: #d9d9d9;
+  height: 1000px;
+  color: #000000;
+  text-align: center;
+}
